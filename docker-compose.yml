@@ -1,4 +1,4 @@
-web: # Image name
+dockerpy: # Image name
   build: . # Build directory
   ports:
    - "5000:5000" # Port to use
