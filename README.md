@@ -2,7 +2,7 @@
 A Python web app that comes alive using Docker Compose!
 
 
-<img src="https://applicationgod.com/img/docker_py.png" alt="DockerPy"/>
+<img src="https://garthtoland.com/img/docker_py.png" alt="DockerPy"/>
 
 
 #### To run this application, once you have downloaded it, move to the folder and run:
