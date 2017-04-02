@@ -1,6 +1,5 @@
 ############################################################
 # Dockerfile to build pyhton flask app on ubuntu.
-# Run using docker-compose up
 ############################################################
 
 FROM ubuntu:latest
@@ -15,4 +14,3 @@ ENTRYPOINT ["python"]
 CMD ["web/app.py"]
 
 ###########################################################
-
